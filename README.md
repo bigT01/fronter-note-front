@@ -1,11 +1,11 @@
-# This is my pet project was created on React with Redux toolkit 
-# main purpose of this project is showing news and update them
+# This is my pet project was created on React with Redux toolkit  
+Main purpose of this project is showing news and update them
 
 On this project from other simple libraries I use libraries like react-markdown to easy updating your posts
 And very understandable Redux branch
 
 # Near future backend will connect to heroku after that you could easily connect to it.
-# However, how please go step-by-step instruction bellow this line
+**However, how please go step-by-step instruction bellow this line**
 
 Instruction to connect with backend:
 1. you should copy https://github.com/bigT01/fronter-note-backend.git for backend
