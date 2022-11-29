@@ -1,46 +1,29 @@
-# Getting Started with Create React App and Redux
+# This is my pet project was created on React with Redux toolkit 
+# main purpose of this project is showing news and update them
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+On this project from other simple libraries I use libraries like react-markdown to easy updating your posts
+And very understandable Redux branch
 
-## Available Scripts
+# Near future backend will connect to heroku after that you could easily connect to it.
+# However, how please go step-by-step instruction bellow this line
 
-In the project directory, you can run:
+Instruction to connect with backend:
+1. you should copy https://github.com/bigT01/fronter-note-backend.git for backend
+2. Backend was created on mongodb that because you should create account on https://cloud.mongodb.com/ 
+3. Change axios.js base URL and env file to get connection with backend.
 
-### `npm start`
+# How to run this project ?
+ 
+First of all please run `npm install` or `npm i` to install all packages
+After `npm start ` or `yarn start` to run this project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-----------------------------------------------------------------------------------------------------------------
+# This project helpful for beginner frontend developers.
+Because on this project I show to how upload files correctly 
+and more details about axios library and other libraries
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-----------------------------------------------------------------------------------------------------------------
+# On the end of this post I want to say that
+This pet project will continue and I want to develop it to like messenger with a large amount of tools.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
